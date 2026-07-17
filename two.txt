@@ -1,1 +1,1 @@
-Hi, I am Nastya
+Hi, I am Nastya. I like DevOps. Change on AWS
